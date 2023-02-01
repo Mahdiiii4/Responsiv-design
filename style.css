@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.red{
+    background-color: red;
+    height: 50vh;
+    width: 50vw;
+}
+
+.blue{
+    background-color: blue;
+    height: 50vh;
+    width: 50vw;
+}
+
+.green{
+    background-color: green;
+    height: 50vh;
+    width: 50vw;
+}
+
+.yellow{
+    background-color: yellow;
+    height: 50vh;
+    width: 50vw;
+}
